@@ -1,0 +1,836 @@
+﻿Date,Transaction Bucket,Property Type,Community,Property,Bedrooms,Size (Sqf),Amount (AED),AED/Sqf,Developer Group,Developer Raw,Times Sold
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Internet City,ICONIC Tower by Mered,2 B/R,1616.43,7765539.78,4804.13,Mered Residences L L C,Mered Residences Real Estate L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,410.65,1801000,4385.77,Danube,Danube Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Sobha Skyparks,2 B/R,1582.31,6843448,4324.98,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Harbour,Damac Bay - Tower C,1 B/R,707.52,3047040,4306.66,Damac,Damac Properties,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Harbour,Sobha Seahaven - Tower A,1 B/R,1168.86,5026055,4299.95,Sobha,Sobha Real Estate L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Sobha Skyparks,1 B/R,684.59,2892393,4225,Sobha,Sobha Real Estate L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,3 B/R,1637.96,6900000,4212.56,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1430000,4192.18,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,341.11,1429000,4189.25,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,341.11,1422000,4168.73,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,341.11,1416000,4151.14,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1411000,4136.48,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Umm Suqeim Third,Nourelle 1 - Madinat Jumeirah Living,2 B/R,1270.47,5238000,4122.87,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2544000,4121.07,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Sobha Skyparks,2 B/R,1229.14,5039433,4099.96,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Harbour,Damac Bay 2 By Cavalli Tower B,2 B/R,1690.38,6886000,4073.64,Damac,Damac Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,341.11,1379000,4042.67,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2489000,4031.97,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1374000,4028.01,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,341.11,1372000,4022.15,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1368000,4010.42,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1368000,4010.42,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,341.11,1366000,4004.56,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,1 B/R,617.32,2456000,3978.52,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1355000,3972.31,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,361.13,1434000,3970.85,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Villa Del Brunello,2 B/R,1347.87,5350000,3969.23,MR Eight,Mr. Eight Development,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences C,2 B/R,1467.56,5824000,3968.48,Nakheel,Nakheel PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,341.11,1353000,3966.45,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,341.11,1353000,3966.45,Unknown,Unknown,1
+2026-02-08T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Eden House The Park D,2 B/R,1940.32,7691563.88,3964.07,H&H,H&H Investment and Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2445000,3960.7,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1349000,3954.72,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences C,2 B/R,1467.46,5795000,3949.01,Nakheel,Nakheel PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,361.13,1426000,3948.69,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2434000,3942.88,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2434000,3942.88,Unknown,Unknown,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1343000,3937.13,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1343000,3937.13,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,361.13,1421000,3934.85,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,341.11,1341000,3931.27,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2423000,3925.06,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2423000,3925.06,Unknown,Unknown,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,1 B/R,617.32,2423000,3925.06,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,341.11,1335000,3913.68,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,3 B/R,1325.48,5181000,3908.78,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,1 B/R,617.32,2412000,3907.24,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,1 B/R,617.32,2412000,3907.24,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,361.13,1408000,3898.85,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,St. Regis Residences Tower 1,2 B/R,1361,5300000,3894.19,Emaar,Emaar Properties PJSC,3
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,341.11,1328000,3893.16,Unknown,Unknown,1
+2026-02-08T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Eden House The Park D,2 B/R,1940.32,7551717.26,3892,H&H,H&H Investment and Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2401000,3889.42,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,2 B/R,1199.65,4660000,3884.47,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,361.13,1402000,3882.23,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,362.32,1405000,3877.83,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,1 B/R,617.32,2390000,3871.6,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,SouleverTower 2 - Jumeirah Peninsula,2 B/R,1250.99,4843000,3871.33,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Mina,Baystar by Vida Tower 1,2 B/R,1223.11,4728888,3866.27,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,361.13,1396000,3865.62,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,2 B/R,1270.26,4909000,3864.56,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,341.11,1317000,3860.91,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,1 B/R,793.63,3062000,3858.22,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Harbour,Sobha Seahaven - Tower A,1 B/R,847.77,3270584,3857.86,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences B,2 B/R,1363.8,5252000,3851.01,Nakheel,Nakheel PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,362.32,1393000,3844.71,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,3 B/R,1325.16,5094000,3844.08,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,1 B/R,617.32,2371000,3840.82,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,SouleverTower 2 - Jumeirah Peninsula,2 B/R,1254.44,4811000,3835.19,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,362.32,1389000,3833.67,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,SouleverTower 2 - Jumeirah Peninsula,2 B/R,1250.99,4789000,3828.16,Omniyat,Omniyat Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,375.34,1436000,3825.86,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,361.13,1381000,3824.08,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,375.34,1435000,3823.19,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,362.32,1385000,3822.63,Unknown,Unknown,1
+2026-02-08T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Eden House The Park D,2 B/R,1940.32,7411870.65,3819.92,H&H,H&H Investment and Development,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,1 B/R,617.32,2355000,3814.91,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,1 B/R,617.32,2353000,3811.67,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,1 B/R,617.32,2351000,3808.43,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,2 B/R,1233.66,4695000,3805.74,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,362.32,1378000,3803.31,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2346000,3800.33,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,1 B/R,617.32,2346000,3800.33,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,361.13,1369000,3790.86,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,361.13,1369000,3790.86,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 2 - Maybach Ultimate Luxury Tower A,1 B/R,617.32,2337000,3785.75,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,375.34,1418000,3777.9,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 2 - Maybach Ultimate Luxury Tower A,1 B/R,617.32,2332000,3777.65,Unknown,Unknown,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 2 - Maybach Ultimate Luxury Tower A,1 B/R,617.32,2332000,3777.65,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,361.13,1364000,3777.01,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,Binghatti Skyblade,2 B/R,1260.79,4754999,3771.45,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,788.36,2971000,3768.61,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,3 B/R,2046.13,7705000,3765.65,Nakheel,Nakheel PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,1 B/R,617.32,2324000,3764.69,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Avarra - Business Bay Palace Residences,2 B/R,1208.8,4545888,3760.67,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,375.34,1411000,3759.25,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,2 B/R,1028.72,3866000,3758.08,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,1 B/R,827.86,3104000,3749.43,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,1 B/R,617.32,2313000,3746.87,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences B,3 B/R,2056.68,7682000,3735.15,Nakheel,Nakheel PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,375.34,1399000,3727.28,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,Rove Home Residences by IRTH,0 B/R,402.57,1500000,3726.03,Irth L L C,IRTH Development L.L.C,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,1 B/R,632.17,2353000,3722.1,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1438000,3717.12,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Palm Jumeirah,Serenia Living - Tower 1,2 B/R,1884.45,7000000,3714.6,Palma,Palma Real Estate,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,3 B/R,2123.2,7885000,3713.74,Nakheel,Nakheel PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,1 B/R,617.32,2291000,3711.23,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,2 B/R,1025.81,3804000,3708.29,Danube,Danube Properties,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,785.13,2911000,3707.68,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,2 B/R,1244.96,4610000,3702.92,Nakheel,Nakheel PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,3 B/R,2041.93,7561000,3702.87,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,361.13,1337000,3702.25,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,394.82,1459850,3697.47,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,361.13,1333000,3691.17,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,3 B/R,2101.03,7750000,3688.68,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,3 B/R,2085.31,7681000,3683.39,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,3 B/R,2101.03,7731000,3679.63,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences B,3 B/R,2046.13,7518000,3674.26,Nakheel,Nakheel PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,3 B/R,2081.43,7646000,3673.43,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,375.34,1378000,3671.33,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,3 B/R,2101.03,7712000,3670.59,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,2 B/R,1167.79,4279000,3664.2,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,1 B/R,793.52,2899000,3653.33,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,386.86,1413000,3652.5,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,386.86,1413000,3652.5,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,1 B/R,788.89,2879000,3649.42,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,One B Tower (One Billion Tower),1 B/R,682.11,2487000,3646.01,AL Wasl,Al Wasl Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,375.34,1368000,3644.69,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1439000,3636.73,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,One B Tower (One Billion Tower),1 B/R,681.68,2477000,3633.65,AL Wasl,Al Wasl Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,361.13,1312000,3633.02,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,2 B/R,1243.46,4515000,3631.01,Nakheel,Nakheel PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,375.34,1361000,3626.04,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,375.34,1361000,3626.04,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,395.68,1434000,3624.1,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,788.25,2855000,3621.96,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1400000,3618.9,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,3 B/R,2155.71,7801000,3618.77,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,818.93,2962000,3616.94,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,1 B/R,793.52,2870000,3616.79,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,385.03,1392000,3615.32,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,2 B/R,1204.28,4352180,3613.94,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,788.25,2847000,3611.81,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,375.34,1355000,3610.05,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,395.68,1428000,3608.93,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,395.68,1428000,3608.93,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,1 B/R,793.52,2863000,3607.97,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,2 B/R,1741.51,6278000,3604.92,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1426000,3603.88,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Avarra - Business Bay Palace Residences,1 B/R,824.74,2970888,3602.22,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,2 B/R,1741.29,6270000,3600.77,Beyond Developments,Beyond Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,385.03,1384000,3594.54,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,SouleverTower 2 - Jumeirah Peninsula,1 B/R,862.3,3094000,3588.06,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,401.82,1441000,3586.18,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,3 B/R,2154.63,7720000,3582.98,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,3 B/R,2082.3,7457000,3581.14,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,1 B/R,776.95,2781000,3579.4,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,3 B/R,2154.63,7702000,3574.63,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1436000,3573.74,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1436000,3573.74,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1436000,3573.74,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,804.5,2875000,3573.64,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,389.33,1391000,3572.77,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,375.34,1341000,3572.75,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,3 B/R,2101.03,7502000,3570.64,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,395.68,1412000,3568.5,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,804.5,2869000,3566.18,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Marina,Rove Home Dubai Marina,0 B/R,434.97,1550000,3563.44,Irth L L C,IRTH Development L.L.C,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,3 B/R,2101.03,7482000,3561.12,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,395.68,1409000,3560.92,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,368.02,1310000,3559.58,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,386.86,1377000,3559.44,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,375.34,1336000,3559.43,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,386.86,1371000,3543.93,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1424000,3543.87,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1424000,3543.87,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1401000,3540.7,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,1 B/R,816.66,2890000,3538.78,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1369000,3538.76,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Franck Muller Yachting by London Gate,0 B/R,409.79,1450000,3538.44,London Gate L L C,London Gate Real Estate Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,368.02,1301440,3536.32,Danube,Danube Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,2 B/R,1396.41,4934000,3533.34,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,389.55,1374000,3527.15,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,386.86,1364000,3525.84,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,375.34,1322000,3522.13,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,394.29,1386000,3515.22,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,3 B/R,2008.99,7061000,3514.7,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,788.25,2769000,3512.86,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,2 B/R,1236.46,4343000,3512.44,Nakheel,Nakheel PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,375.34,1317000,3508.81,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1356000,3505.16,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,403.54,1412000,3499.01,Danube,Danube Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1405000,3496.59,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,2 B/R,1239.04,4331000,3495.44,Nakheel,Nakheel PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences B,2 B/R,1239.04,4331000,3495.44,Nakheel,Nakheel PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,394.82,1380000,3495.23,Danube,Danube Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,386.86,1352000,3494.82,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1248.41,4361888,3493.96,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,SouleverTower 2 - Jumeirah Peninsula,1 B/R,859.4,3001740,3492.84,Omniyat,Omniyat Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,401.82,1403000,3491.61,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1350000,3489.65,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Harbour,Damac Bay - Tower C,1 B/R,1304.92,4552000,3488.34,Damac,Damac Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,1 B/R,804.39,2802000,3483.37,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,1 B/R,804.39,2802000,3483.37,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Chelsea 2 Tower C,1 B/R,774.36,2697000,3482.87,Damac,Damac Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,1 B/R,740.35,2577000,3480.8,Nakheel,Nakheel PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,1 B/R,804.39,2795000,3474.67,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1344000,3474.14,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,1 B/R,804.5,2791000,3469.23,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,395.68,1372000,3467.41,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,2 B/R,1307.18,4531000,3466.24,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,1 B/R,804.39,2788000,3465.96,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1392000,3464.24,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1392000,3464.24,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences C,1 B/R,843.14,2920000,3463.23,Nakheel,Nakheel PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences C,1 B/R,843.14,2920000,3463.23,Nakheel,Nakheel PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1388.02,4807000,3463.21,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Bluewaters Island,Bluewaters Bay - Building 2,1 B/R,800.73,2773000,3463.07,Meraas,Meraas Development  L.L.C,3
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Safa Gate,0 B/R,394.93,1366000,3458.83,Damac,Damac Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,1 B/R,804.39,2781000,3457.26,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,One by Binghatti,1 B/R,1020.32,3524999,3454.8,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,One by Binghatti,1 B/R,1020.32,3524999,3454.8,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,2 B/R,972.64,3353000,3447.34,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,2 B/R,1231.29,4236000,3440.28,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1386.4,4768000,3439.11,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1506.96,5177000,3435.39,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,395.68,1359000,3434.55,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,One by Binghatti,1 B/R,1020.32,3499999,3430.3,Binghatti,Binghatti Holding Limited,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,One by Binghatti,1 B/R,1020.32,3499999,3430.3,Binghatti,Binghatti Holding Limited,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,1 B/R,804.93,2760780,3429.83,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1386.4,4755000,3429.74,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1357000,3429.5,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,401.82,1378000,3429.4,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,403.54,1382400,3425.66,Danube,Danube Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,2 B/R,1168.65,4003000,3425.33,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1325000,3425.03,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,402.36,1377000,3422.32,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1388.02,4749000,3421.43,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,401.82,1374000,3419.44,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences B,1 B/R,741.96,2537000,3419.31,Nakheel,Nakheel PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,3 B/R,2162.06,7392000,3418.97,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1388.02,4737000,3412.78,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,1 B/R,836.15,2853000,3412.08,Nakheel,Nakheel PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Avarra - Business Bay Palace Residences,2 B/R,1443.34,4923888,3411.44,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,402.36,1372000,3409.9,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1319000,3409.52,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 3 - Maybach Ultimate Luxury Tower B,0 B/R,401.82,1369000,3407,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,1 B/R,840.45,2863000,3406.5,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,0 B/R,403.65,1375000,3406.42,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences A,1 B/R,836.15,2846000,3403.71,Nakheel,Nakheel PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,394.29,1341620,3402.66,Danube,Danube Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,395.68,1346000,3401.7,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Franck Muller Yachting by London Gate,0 B/R,409.25,1391040,3399.02,London Gate L L C,London Gate Real Estate Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1388.02,4714000,3396.21,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1388.02,4714000,3396.21,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1384.79,4702000,3395.46,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,386.86,1312000,3391.42,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Safa Gate,2 B/R,1015.69,3444210,3391,Damac,Damac Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1388.02,4702000,3387.56,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,3 B/R,2082.73,7055000,3387.39,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,1 B/R,843.9,2858000,3386.67,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Chelsea 2 Tower C,1 B/R,771.56,2609740,3382.4,Damac,Damac Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1338000,3381.48,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1338000,3381.48,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Elle Residences,2 B/R,1067.25,3605777,3378.57,Anax Developments,ANAX Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,1 B/R,843.9,2851000,3378.37,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,3 B/R,2101.03,7097000,3377.87,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,1 B/R,840.45,2835000,3373.18,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1231.29,4152000,3372.06,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1354000,3369.67,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1187.48,4000000,3368.47,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1332000,3366.32,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1248.41,4200888,3364.99,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1247.55,4189888,3358.5,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1230.43,4131000,3357.36,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,2 B/R,1486.19,4980000,3350.86,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1168.65,3912000,3347.46,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,1 B/R,803.75,2690000,3346.82,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1319.56,4415000,3345.82,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1321.93,4422000,3345.12,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,2 B/R,972.64,3253000,3344.52,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Avarra - Business Bay Palace Residences,2 B/R,1437.96,4803888,3340.76,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1167.68,3900000,3339.96,Beyond Developments,Beyond Developments,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1321.93,4412000,3337.55,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1320000,3335.99,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,395.68,1320000,3335.99,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,401.82,1340000,3334.83,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1231.29,4103000,3332.27,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,1 B/R,806.44,2685650,3330.26,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1321.93,4401000,3329.23,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1319.56,4393000,3329.14,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1319.02,4391000,3328.99,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1685.53,5611000,3328.91,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 5 - Maybach 6 Tower B,0 B/R,401.82,1335000,3322.38,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,3 B/R,1855.07,6156888,3318.96,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1506.96,4999000,3317.27,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,1 B/R,862.63,2860000,3315.45,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Avarra - Business Bay Palace Residences,3 B/R,1861.85,6165070,3311.26,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,394.29,1305300,3310.55,Danube,Danube Properties,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1506.96,4987000,3309.31,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,0 B/R,224.21,741449,3306.88,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,2 B/R,1380.27,4562000,3305.16,Avenew,Avenew Real Estate Development,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1431.93,4727888,3301.75,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,One Residence,0 B/R,469.53,1548500,3298.01,Ginco L L C,Ginco Properties L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,One Residence,0 B/R,469.53,1548500,3298.01,Ginco L L C,Ginco Properties L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Franck Muller Yachting by London Gate,0 B/R,429.05,1414000,3295.63,London Gate L L C,London Gate Real Estate Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1504.91,4954000,3291.88,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1230.43,4050000,3291.52,Beyond Developments,Beyond Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 4 - Maybach 6 Tower A,0 B/R,401.82,1321000,3287.54,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Bayz 101,1 B/R,753.26,2476000,3287.03,Danube,Danube Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Safa Gate,2 B/R,1015.69,3337000,3285.45,Damac,Damac Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1504.91,4942000,3283.91,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,The Cove ll Building 8,3 B/R,1827.73,6000000,3282.77,Emaar,Emaar Properties PJSC,3
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1518.15,4976000,3277.66,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,1 B/R,839.05,2750000,3277.5,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,2 B/R,992.01,3248000,3274.16,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1431.93,4673888,3264.04,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Mercedes Benz Places Binghatti City Tower 1 - Project Maybach,2 B/R,992.01,3236000,3262.06,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1518.15,4952000,3261.85,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,1 B/R,839.05,2736000,3260.82,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,831.73,2702000,3248.63,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,831.73,2702000,3248.63,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Marina,Residences Du Port - Autograph Collection Residences,2 B/R,1416.65,4600000,3247.1,Emaar,Emaar Properties PJSC,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Chelsea 2 Tower C,1 B/R,771.56,2502720,3243.7,Damac,Damac Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1188.88,3854000,3241.7,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1586.72,5136000,3236.86,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1188.88,3844000,3233.28,Meraas,Meraas Development  L.L.C,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1586.72,5123000,3228.67,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,0 B/R,224.21,723794,3228.14,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1588.98,5119000,3221.56,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,834.1,2686000,3220.23,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Marina,Rove Home Dubai Marina,0 B/R,444.98,1432500,3219.22,Irth L L C,IRTH Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1188.88,3827000,3218.99,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Treppan Serenique Building 2,2 B/R,980.71,3153000,3215.02,Fakhruddin,Fakhruddin Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Palm Jumeirah,Palm Beach Tower 1,2 B/R,1524.4,4900000,3214.38,Nakheel,Nakheel PJSC,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1586.72,5098000,3212.91,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Harbour,Damac Bay - Tower B,1 B/R,1255.3,4029000,3209.6,Damac,Damac Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1256.37,4027000,3205.26,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1585,5075000,3201.89,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,2 B/R,1235.38,3955000,3201.43,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,830.87,2652000,3191.82,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Umm Suqeim Third,Lamaa 2,3 B/R,1817.93,5800000,3190.44,Dubai Properties,Dubai Holding,3
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1256.37,4008000,3190.13,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,831.73,2649000,3184.91,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,2 B/R,1472.41,4689000,3184.58,Avenew,Avenew Real Estate Development,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,830.87,2645000,3183.4,Beyond Developments,Beyond Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Aquora by Casa Vista,1 B/R,778.99,2478222,3181.32,Casa Vista,Casa Vista Development LLC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Safa Gate,0 B/R,392.35,1248000,3180.85,Damac,Damac Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,830.87,2640000,3177.38,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,770.81,2446000,3173.29,Beyond Developments,Beyond Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Safa Gate,0 B/R,392.35,1244160,3171.06,Damac,Damac Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,1 B/R,763.71,2419000,3167.45,Danube,Danube Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,1 B/R,603,1905000,3159.21,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,769.95,2428000,3153.46,Beyond Developments,Beyond Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,1 B/R,603,1900800,3152.24,Danube,Danube Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,1 B/R,603,1898880,3149.06,Danube,Danube Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1270.26,3998000,3147.39,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Safa Gate,1 B/R,756.6,2380380,3146.15,Damac,Damac Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,870.05,2737000,3145.78,Beyond Developments,Beyond Developments,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Orise Tower 1,1 B/R,826.68,2599050,3143.98,Beyond Developments,Beyond Developments,0
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Royal Yacht Club Residences Tower B,1 B/R,838.84,2626044.31,3130.57,Azimuth Developments,Azimuth Developments LLc,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,One Residence,2 B/R,1053.04,3296500,3130.45,Ginco L L C,Ginco Properties L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,870.05,2717000,3122.79,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences C,2 B/R,1881.12,5869000,3119.96,Nakheel,Nakheel PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,1 B/R,763.71,2381940,3118.92,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,831.63,2591000,3115.58,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,831.73,2591000,3115.18,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,831.73,2591000,3115.18,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,831.73,2591000,3115.18,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,830.87,2588000,3114.8,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,830.77,2585000,3111.59,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,831.73,2588000,3111.57,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1642.69,5097000,3102.83,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,1 B/R,1090.5,3380000,3099.49,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Breez by Danube,0 B/R,403.54,1250480,3098.76,Danube,Danube Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,832.27,2579000,3098.74,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,One River Point,0 B/R,487.61,1505828,3088.19,Ellington,Ellington Properties Development L.L.C,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,1 B/R,862.41,2662000,3086.69,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1475.96,4554000,3085.45,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,830.87,2563000,3084.71,Beyond Developments,Beyond Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,899.44,2766000,3075.25,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Elle Residences,2 B/R,994.06,3047777,3066,Anax Developments,ANAX Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,791.37,2426000,3065.57,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,One Residence,1 B/R,749.07,2289500,3056.47,Ginco L L C,Ginco Properties L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,1 B/R,861.77,2632000,3054.19,Avenew,Avenew Real Estate Development,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,831.73,2540000,3053.86,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,829.9,2534000,3053.36,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,831.73,2537000,3050.25,Beyond Developments,Beyond Developments,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,2 B/R,1319.56,4014000,3041.93,Meraas,Meraas Development  L.L.C,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Dubai Marina,Rove Home Dubai Marina,0 B/R,434.97,1321200,3037.43,Irth L L C,IRTH Development L.L.C,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,830.87,2523000,3036.56,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Talea by Beyond,2 B/R,1421.82,4316000,3035.55,Beyond Developments,Beyond Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,Fairmont Residences Solara Tower,2 B/R,2050.33,6212000,3029.76,SOL,SOL Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1256.37,3805000,3028.56,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1256.37,3805000,3028.56,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Palm Jebel Ali,Palm Central Residences C,2 B/R,1964.75,5949000,3027.86,Nakheel,Nakheel PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,834.53,2524000,3024.45,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1188.88,3595000,3023.84,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,2 B/R,1387.8,4195000,3022.76,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,2 B/R,1256.48,3798000,3022.73,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,1 B/R,824.85,2493000,3022.38,Avenew,Avenew Real Estate Development,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building B,2 B/R,1256.37,3796000,3021.39,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,1 B/R,829.15,2504000,3019.96,Avenew,Avenew Real Estate Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,3 B/R,1859.37,5613888,3019.24,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,1 B/R,393.32,1187118,3018.23,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1256.59,3790000,3016.1,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,2 B/R,1256.48,3789000,3015.56,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,908.16,2738000,3014.89,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1188.88,3578000,3009.55,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building A,2 B/R,1256.59,3781000,3008.94,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,908.16,2727000,3002.78,Omniyat,Omniyat Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Safa Gate,0 B/R,400.1,1200960,3001.67,Damac,Damac Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,3 B/R,1859.37,5573150,2997.33,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,The Serene at Sobha Central,2 B/R,859.51,2569905,2989.98,Sobha,Sobha Real Estate L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,2 B/R,1256.48,3752000,2986.12,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences Hillside A,1 B/R,678.45,2020888,2978.66,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,2 B/R,1252.61,3731000,2978.59,Meraas,Meraas Development  L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Chelsea Residences B,2 B/R,1575.31,4683690,2973.18,Damac,Damac Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,1 B/R,393.32,1168582,2971.1,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,Horizon at Sobha Central,1 B/R,690.08,2042637,2960,Sobha,Sobha Real Estate L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,809.88,2395000,2957.22,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,836.04,2472000,2956.8,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,2 B/R,1286.51,3803000,2956.05,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,One Residence,2 B/R,1344.53,3971000,2953.45,Ginco L L C,Ginco Properties L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,The Eden at Sobha Central,2 B/R,1202.02,3545930,2949.99,Sobha,Sobha Real Estate L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,831.73,2452000,2948.06,Beyond Developments,Beyond Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1191.57,3507888,2943.91,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,The Serene at Sobha Central,2 B/R,852.62,2506673,2939.98,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,919.03,2700000,2937.88,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,The Eden at Sobha Central,1 B/R,690.08,2025385,2935,Sobha,Sobha Real Estate L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Bayz 101,0 B/R,373.62,1096000,2933.47,Danube,Danube Properties,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 5 Building B,2 B/R,1180.7,3462000,2932.15,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,820.86,2405000,2929.84,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1238.4,3620888,2923.85,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,1 B/R,884.91,2584000,2920.08,Avenew,Avenew Real Estate Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Flora Shore,2 B/R,838.3,2446000,2917.81,Calgary,Calgary Properties LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,2 B/R,1715.89,4997000,2912.19,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,Tranquil at Sobha Central,2 B/R,852.83,2481706,2909.96,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Safa Gate,0 B/R,400.1,1163520,2908.09,Damac,Damac Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Chelsea 2 Tower C,1 B/R,1001.7,2910000,2905.07,Damac,Damac Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,Society House Downtown Dubai,1 B/R,739.59,2148419,2904.86,Invest Overseas IGO,Invest Group Overseas (IGO),2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,Horizon at Sobha Central,1 B/R,690.08,2001232,2900,Sobha,Sobha Real Estate L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,Horizon at Sobha Central,2 B/R,921.94,2673568,2899.95,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Saba Towers 4,1 B/R,889.75,2580000,2899.68,Saba JLT,SABA Properties JLT,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,City Walk Crestlane 4 Building A,2 B/R,1188.88,3447000,2899.36,Meraas,Meraas Development  L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Binghatti Skyrise Tower 3,1 B/R,966.5,2800000,2897.05,Binghatti,Binghatti Holding Limited,2
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,1 B/R,501.93,1451229,2891.32,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,St. Regis Residences Tower 2,2 B/R,1335.06,3850000,2883.77,Emaar,Emaar Properties PJSC,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,2 B/R,1447.22,4168000,2880,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Al Habtoor Tower,1 B/R,935.28,2690239.4,2876.39,AL Habtoor,Al Habtoor Group,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,Horizon at Sobha Central,2 B/R,1202.02,3455779,2874.99,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,DWTN Residences - Downtown Residences,2 B/R,1104.92,3175794,2874.22,Deyaar,Deyaar Development Company,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Binghatti Aquarise Tower D,1 B/R,812.68,2332999,2870.74,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Zaabeel First,Address Residences Zabeel Tower 3,2 B/R,1405.56,4032890,2869.23,Emaar,Emaar Properties PJSC,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,929.26,2666000,2868.96,Omniyat,Omniyat Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1190.39,3409888,2864.51,Emaar,Emaar Properties PJSC,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,1 B/R,501.93,1435650,2860.29,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,DWTN Residences - Downtown Residences,1 B/R,777.91,2218998,2852.5,Deyaar,Deyaar Development Company,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Aquora by Casa Vista,1 B/R,763.17,2175006,2849.97,Casa Vista,Casa Vista Development LLC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,908.37,2584000,2844.64,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,2 B/R,1446.79,4111000,2841.46,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Binghatti Aquarise Tower C,1 B/R,812.68,2306999,2838.75,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Heights,Serenia District - West Residence,1 B/R,840.13,2383000,2836.47,Palma,Palma Real Estate,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,929.26,2635220,2835.84,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Beach Walk Grand 2,1 B/R,840.99,2384005,2834.76,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,1 B/R,393.32,1114193,2832.81,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,877.8,2486000,2832.07,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,2 B/R,1447.22,4093000,2828.18,Omniyat,Omniyat Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,Horizon at Sobha Central,1 B/R,730.55,2063804,2824.99,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Peninsula Four Tower A,0 B/R,527.65,1490000,2823.83,Private Investor,Private Investor,3
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences Hillside A,1 B/R,680.93,1921461,2821.82,Emaar,Emaar Properties PJSC,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences Hillside A,1 B/R,678.45,1912731,2819.25,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences Hillside A,1 B/R,680.93,1915790,2813.49,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,908.7,2554860,2811.56,Omniyat,Omniyat Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Binghatti Aquarise Tower B,0 B/R,423.56,1189999,2809.49,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Flora Shore,2 B/R,838.3,2354000,2808.06,Calgary,Calgary Properties LLC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,The Hills,Golf Heights,2 B/R,1157.56,3250000,2807.63,Emaar,Emaar Properties PJSC,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland,The Element at Sobha One,3 B/R,1789.08,5018341,2804.98,Sobha,Sobha Real Estate L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,The Eden at Sobha Central,1 B/R,568.34,1594166,2804.96,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,1 B/R,902.99,2529000,2800.69,Avenew,Avenew Real Estate Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Chelsea 2 Tower C,2 B/R,1662.72,4652150,2797.92,Damac,Damac Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Al Habtoor Tower,1 B/R,1142.49,3195582,2797.03,AL Habtoor,Al Habtoor Group,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,2 B/R,667.37,1865616,2795.48,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,858.54,2400000,2795.45,Omniyat,Omniyat Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,The Eden at Sobha Central,1 B/R,631.42,1764791,2794.97,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,The Eden at Sobha Central,1 B/R,631.42,1764791,2794.97,Sobha,Sobha Real Estate L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Mina,Sera 2 at Mina Rashid Building B,1 B/R,758.54,2119888,2794.7,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,1 B/R,884.15,2470000,2793.63,Avenew,Avenew Real Estate Development,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Lyvia by Palace - Green Gate,2 B/R,1144,3193888,2791.87,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1196.31,3331888,2785.14,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Peninsula Four Tower A,1 B/R,863.17,2400000,2780.46,Private Investor,Private Investor,3
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,City Walk,Laurel,1 B/R,754.88,2095000,2775.28,Meraas,Meraas Development  L.L.C,3
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1196.31,3318888,2774.27,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1190.82,3302888,2773.62,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1196.31,3312888,2769.25,Emaar,Emaar Properties PJSC,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Al Mina,Sera 2 at Mina Rashid Building A,1 B/R,778.24,2150888,2763.79,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1190.82,3290888,2763.54,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,929.36,2565000,2759.95,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Elmora Residence,2 B/R,725.92,2000538,2755.85,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1196.31,3293888,2753.37,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Chelsea 2 Tower A,3 B/R,2045.38,5628000,2751.57,Damac,Damac Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower B,1 B/R,1309.01,3600000,2750.17,Beyond Developments,Beyond Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Address Residences Dubai Hills Estate Tower B,1 B/R,750.79,2064750,2750.11,Emaar,Emaar Properties PJSC,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,Skyvue Stellar,2 B/R,1191.68,3277093,2749.97,Sobha,Sobha Real Estate L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,929.36,2553000,2747.04,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,St. Regis Residences Tower 1,1 B/R,928.4,2550000,2746.68,Emaar,Emaar Properties PJSC,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,Horizon at Sobha Central,2 B/R,1084.04,2975690,2744.99,Sobha,Sobha Real Estate L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,DWTN Residences - Downtown Residences,1 B/R,901.49,2474256,2744.64,Deyaar,Deyaar Development Company,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Zaabeel First,Address Residences Zabeel Tower 4,1 B/R,767.04,2104888,2744.16,Emaar,Emaar Properties PJSC,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,MBL Signature,0 B/R,538.2,1476597.78,2743.59,MAG,MAG Property Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1196.31,3281888,2743.34,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Peninsula Four Tower B,0 B/R,527.54,1445000,2739.11,Private Investor,Private Investor,3
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,DWTN Residences - Downtown Residences,1 B/R,836.15,2285447,2733.31,Deyaar,Deyaar Development Company,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower C,1 B/R,1114.94,3044000,2730.2,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Nautica One,2 B/R,1000.19,2730000,2729.48,Select Group,Select Group,3
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jebel Ali First,Horizon at Sobha Central,1 B/R,568.34,1548699,2724.96,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Lia Residences,1 B/R,902.99,2460000,2724.28,Avenew,Avenew Real Estate Development,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,2 B/R,1265.85,3443888,2720.62,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Nautica Two,1 B/R,614.95,1673000,2720.56,Select Group,Select Group,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,919.14,2488000,2706.88,Omniyat,Omniyat Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,MBL Signature,1 B/R,811.39,2190827.44,2700.09,MAG,MAG Property Development,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Tonino Lamborghini 1,1 B/R,823.23,2222694,2699.96,Gulf Land,Gulf Land Property Developers,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,929.36,2508000,2698.62,Omniyat,Omniyat Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,1 B/R,739.38,1992888,2695.35,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Mercer House North Tower,0 B/R,513.44,1380828,2689.35,Ellington,Ellington Properties Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Canal Crown 1,2 B/R,1300.18,3490000,2684.24,Damac,Damac Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,1 B/R,730.34,1959888,2683.54,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences Hillside A,1 B/R,680.93,1825888,2681.46,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,888.78,2382380,2680.5,Omniyat,Omniyat Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,Skyvue Stellar,3 B/R,1603.84,4298238,2679.97,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Kanyon by Beyond - Canyon by Beyond,1 B/R,875.87,2342000,2673.92,Omniyat,Omniyat Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Evergrin House,0 B/R,438.42,1169096,2666.63,TSZ Object ONE L L C,TSZ Group - Object One Real Estate Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences 3,1 B/R,742.93,1980000,2665.12,Emaar,Emaar Properties PJSC,3
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,District Seven,Keturah Reserve MU-09,2 B/R,1646.35,4387000,2664.68,MAG,MAG Property Development,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Mercer House North Tower,2 B/R,1680.48,4467828,2658.67,Ellington,Ellington Properties Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Lyvia by Palace - Green Gate,1 B/R,913.86,2424888,2653.45,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Canal Heights 2,2 B/R,1311.92,3476160,2649.68,Damac,Damac Properties,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Hillsedge 2,1 B/R,711.39,1884888,2649.57,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Waters 2,2 B/R,1136.14,3000519,2640.98,Emaar,Emaar Properties PJSC,0
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,Skyscape Aura,2 B/R,1514.06,3997092,2639.98,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Al Habtoor Tower,2 B/R,1475.74,3888548.55,2634.97,AL Habtoor,Al Habtoor Group,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Lyvia by Palace - Green Gate,1 B/R,913.86,2405888,2632.66,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Elvira 2,3 B/R,1501.36,3950000,2630.94,Emaar,Emaar Properties PJSC,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Islands,Eltiera Heights,1 B/R,821.62,2160828,2629.97,Ellington,Ellington Properties Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Mercer House South Tower,3 B/R,2569.37,6738828,2622.76,Ellington,Ellington Properties Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,One by Binghatti,1 B/R,1176.51,3074999,2613.67,Binghatti,Binghatti Holding Limited,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Village Circle,Binghatti Ruby,0 B/R,368.67,962498.9,2610.75,Binghatti,Binghatti Holding Limited,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,3 B/R,2438.37,6346888,2602.92,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Lyvia by Palace - Green Gate,2 B/R,1241.41,3225888,2598.56,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Flora Shore,2 B/R,982.54,2551000,2596.34,Calgary,Calgary Properties LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,1 B/R,730.45,1893888,2592.79,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Lyvia by Palace - Green Gate,2 B/R,1144,2957888,2585.57,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Franck Muller Yachting by London Gate,0 B/R,549.72,1418000,2579.51,London Gate L L C,London Gate Real Estate Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,1 B/R,733.35,1883888,2568.88,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,1 B/R,730.45,1875888,2568.14,Emaar,Emaar Properties PJSC,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences Hillside A,1 B/R,680.93,1747888,2566.91,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Expo City,Expo City Al Waha Residences 02 Building 42,2 B/R,1389.2,3565000,2566.22,Expo City,Expo City,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Peninsula Four Tower A,3 B/R,1948.5,5000000,2566.08,Private Investor,Private Investor,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Expo City,Expo City Al Waha Residences 02 Building 42,2 B/R,1389.85,3565000,2565.03,Expo City,Expo City,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Expo City,Expo City Al Waha Residences 02 Building 42,2 B/R,1389.96,3565000,2564.83,Expo City,Expo City,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Lyvia by Palace - Green Gate,2 B/R,1206.21,3091888,2563.3,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Heights,Serenia District - West Residence,1 B/R,830.12,2126000,2561.08,Palma,Palma Real Estate,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Evergrin House 2,0 B/R,399.34,1022605,2560.71,TSZ Object ONE L L C,TSZ Group - Object One Real Estate Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Montiva at Green Gate,1 B/R,754.88,1932888,2560.53,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,996.75,2552000,2560.33,Beyond Developments,Beyond Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Evergrin House 2,0 B/R,404.94,1035837,2557.99,TSZ Object ONE L L C,TSZ Group - Object One Real Estate Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Village Circle,Binghatti Ruby,0 B/R,387.29,989998.9,2556.23,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,1 B/R,739.49,1888888,2554.32,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,2 B/R,1436.89,3669888,2554.06,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,1 B/R,730.45,1864888,2553.08,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Science Park (Dubiotech),Skyhills Astra Building 2,0 B/R,378.03,961870,2544.42,Hijazi,Hijazi Real Estate Development LLC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,The Hills,Golf Heights,3 B/R,1925.89,4900000,2544.27,Emaar,Emaar Properties PJSC,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,The Edge 2,1 B/R,573.61,1456000,2538.29,Select Group,Select Group,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Al Habtoor Tower,2 B/R,1981.44,5025748,2536.42,AL Habtoor,Al Habtoor Group,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Evergrin House,0 B/R,396.55,1005471,2535.57,TSZ Object ONE L L C,TSZ Group - Object One Real Estate Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,1 B/R,737.33,1865706,2530.34,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,1 B/R,736.8,1860888,2525.65,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Waters,2 B/R,1134.63,2862961.95,2523.25,Emaar,Emaar Properties PJSC,0
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,MBL Signature,0 B/R,619.04,1561316.64,2522.17,MAG,MAG Property Development,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,The Quayside,2 B/R,1384.14,3488828,2520.57,Ellington,Ellington Properties Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Expo City,Expo City Al Waha Residences 01 Building 21,2 B/R,1387.91,3491000,2515.29,Expo City,Expo City,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Expo City,Expo City Al Waha Residences 01 Building 21,2 B/R,1388.02,3491000,2515.1,Expo City,Expo City,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Al Habtoor Tower,2 B/R,1981.44,4975146,2510.88,AL Habtoor,Al Habtoor Group,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,3 B/R,1877.13,4710888,2509.62,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,1 B/R,736.8,1843888,2502.58,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Tonino Lamborghini 2,1 B/R,910.31,2275750,2499.97,Gulf Land,Gulf Land Property Developers,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Heights,Serenia District - West Residence,1 B/R,830.12,2075000,2499.64,Palma,Palma Real Estate,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Casagrand Hermina,2 B/R,1240.01,3095045.76,2495.98,Casagrand,Casagrand Developers LLC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Ellington House III,2 B/R,1343.99,3350000,2492.57,Ellington,Ellington Properties Development L.L.C,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,2 B/R,1436.89,3557888,2476.11,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Hado by Beyond Tower A,1 B/R,1076.29,2665000,2476.09,Beyond Developments,Beyond Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Tonino Lamborghini 4,1 B/R,920.54,2278311.75,2474.98,Gulf Land,Gulf Land Property Developers,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Tonino Lamborghini 4,1 B/R,982,2430425.25,2474.98,Gulf Land,Gulf Land Property Developers,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Nautica One,2 B/R,1031.94,2552500,2473.49,Select Group,Select Group,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Mercer House South Tower,2 B/R,1491.68,3688828,2472.94,Ellington,Ellington Properties Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,The Edge,1 B/R,619.25,1531000,2472.33,Select Group,Select Group,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Franck Muller Yachting by London Gate,0 B/R,549.72,1358000,2470.36,London Gate L L C,London Gate Real Estate Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Flora Shore,2 B/R,1074.79,2654820,2470.09,Calgary,Calgary Properties LLC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Montiva at Green Gate,2 B/R,1143.14,2822888,2469.42,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Montiva at Green Gate,2 B/R,1143.24,2822888,2469.19,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Horizon,Mansory Residences - AMAAL 8,2 B/R,1370.47,3377888,2464.76,Amaal Emirates L L C,Amaal Emirates L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Science Park (Dubiotech),Skyhills Astra Building 2,0 B/R,378.14,930000,2459.41,Hijazi,Hijazi Real Estate Development LLC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Bayz 101,1 B/R,940.77,2313400,2459.04,Danube,Danube Properties,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Montiva at Green Gate,2 B/R,1205.35,2962888,2458.11,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Beach Residences Dubai Islands B2,1 B/R,1002.88,2450000,2442.96,Nakheel,Nakheel PJSC,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,1 B/R,768.33,1875888,2441.5,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Heights,Serenia District - West Residence,1 B/R,835.82,2038000,2438.31,Palma,Palma Real Estate,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Science Park (Dubiotech),Skyhills Astra Building 1,0 B/R,378.46,922500,2437.5,Hijazi,Hijazi Real Estate Development LLC,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Ocean Tower,1 B/R,842.82,2050000,2432.31,Ahmed AL Ansari,Ahmed Al Ansari Real Estate Development LLC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Montiva at Green Gate,2 B/R,1143.14,2772310,2425.18,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Al Habtoor Tower,1 B/R,860.8,2086781,2424.24,AL Habtoor,Al Habtoor Group,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,1 B/R,905.47,2192597,2421.51,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Mina,Sera 2 at Mina Rashid Building A,2 B/R,1336.78,3235888,2420.66,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,1 B/R,755.31,1827888,2420.05,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Diamondz By Danube,2 B/R,1107.29,2679320,2419.7,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Binghatti Skyrise Tower 2,0 B/R,434,1050000,2419.33,Binghatti,Binghatti Holding Limited,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Albero,3 B/R,1847.64,4469888,2419.24,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Peninsula Four Tower A,1 B/R,860.69,2081415,2418.31,Private Investor,Private Investor,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Sunset Bay Grand,1 B/R,969.62,2344004.35,2417.44,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Science Park (Dubiotech),Skyhills Astra Building 2,0 B/R,378.14,912000,2411.81,Hijazi,Hijazi Real Estate Development LLC,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Horizon,Mansory Residences - AMAAL 8,1 B/R,878.56,2118888,2411.78,Amaal Emirates L L C,Amaal Emirates L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Waters 2,1 B/R,754.77,1818888,2409.85,Emaar,Emaar Properties PJSC,3
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Marina,Aba Lux Living - Kempinski Marina Residences,2 B/R,1685.86,4050152,2402.43,ABA,ABA Group,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Flow Residences,1 B/R,950.35,2281650,2400.84,Main Realty L L C,Main Realty Real Estate L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Allegro Residences,2 B/R,1323.43,3176329,2400.07,Mill Hill Riviera,Mill Hill Riviera Development LLC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Villea West,0 B/R,502.46,1205912,2400,Palmridge,Palmridge Real Estate Development LLC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Villea West,0 B/R,500.1,1200229,2400,Palmridge,Palmridge Real Estate Development LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,310 Riverside Crescent,2 B/R,1460.03,3504048,2399.99,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,Skyscape Altius,1 B/R,827.64,1986336,2399.99,Sobha,Sobha Real Estate L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Ras Al Khor Industrial First,Sobha One Tower E,1 B/R,724.96,1739880,2399.98,Sobha,Sobha Real Estate L.L.C,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Al Habtoor Tower,2 B/R,2037.41,4887621,2398.94,AL Habtoor,Al Habtoor Group,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Science Park (Dubiotech),Skyhills Astra Building 1,0 B/R,378.14,905500,2394.62,Hijazi,Hijazi Real Estate Development LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,330 Riverside Crescent,1 B/R,501.6,1198824,2389.99,Sobha,Sobha Real Estate L.L.C,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Downtown Dubai,Volta Tower,2 B/R,1413.64,3376000,2388.17,Damac,Damac Properties,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Hillsedge 1,2 B/R,1139.8,2713888,2381.02,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Heights,Serenia District - West Residence,1 B/R,840.13,2000000,2380.58,Palma,Palma Real Estate,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Heights,Serenia District - West Residence,1 B/R,898.9,2139000,2379.57,Palma,Palma Real Estate,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Ras Al Khor Industrial First,Sobha One Tower B,1 B/R,749.71,1781662,2376.46,Sobha,Sobha Real Estate L.L.C,2
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Al Mina,Sera 2 at Mina Rashid Building B,2 B/R,1325.69,3148630,2375.08,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Binghatti Skyrise Tower 1,0 B/R,434,1030000,2373.25,Binghatti,Binghatti Holding Limited,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Albero,3 B/R,1847.64,4362850,2361.31,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Ras Al Khor Industrial First,Sobha One Tower B,2 B/R,850.25,2006566,2359.98,Sobha,Sobha Real Estate L.L.C,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Wasl,Damac City - Safa One Tower A,2 B/R,1230.11,2900000,2357.51,Damac,Damac Properties,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,The Elysian Residence,2 B/R,770.7,1816777,2357.3,NEW Mfour,New MFOUR Real Estate Development LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,2 B/R,1435.27,3375888,2352.09,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,1 B/R,906.11,2131007,2351.81,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences Hillside A,2 B/R,1147.33,2696850,2350.53,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,2 B/R,894.81,2102999,2350.22,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Ras Al Khor Industrial First,Sobha One Tower D,2 B/R,1451.96,3412059,2349.97,Sobha,Sobha Real Estate L.L.C,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Evergrin House 2,1 B/R,897.5,2105647,2346.12,TSZ Object ONE L L C,TSZ Group - Object One Real Estate Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Urban Life,1 B/R,854.66,2004466.52,2345.33,Urban L L C,Urban Properties Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1238.4,2896888,2339.22,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,DoubleTree by Hilton Residences - West 5,1 B/R,720.87,1683930.67,2335.99,West F5,West F5 Development LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,1 B/R,1083.83,2530152,2334.46,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Azizi Venice,Azizi Venice 6 Building H,0 B/R,361.02,841500,2330.87,Azizi,Azizi Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Sports City,Aspirz Tower,1 B/R,489.12,1139000,2328.69,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1450.56,3377888,2328.68,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Nad Al Shiba First,La Vue Residence,1 B/R,756.49,1760640,2327.37,Maaia,Maaia Developers,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Rosehill Block A,2 B/R,1419.23,3300888,2325.82,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Meydan City,Emerge Residences,1 B/R,683.94,1590000,2324.75,Elysian Luxury,Elysian Luxury Real Estate Development LLC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Elvira 2,2 B/R,1062.84,2470000,2323.97,Emaar,Emaar Properties PJSC,3
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,1 B/R,1116.33,2593334,2323.08,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,The Elysian Residence,1 B/R,716.67,1664777,2322.94,NEW Mfour,New MFOUR Real Estate Development LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Marina,Aeternitas Tower - London Gate,2 B/R,1613.09,3745000,2321.63,London Gate L L C,London Gate Real Estate Development L.L.C,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1450.56,3364888,2319.72,Emaar,Emaar Properties PJSC,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Al Satwa,Coral by Vision,0 B/R,351.88,816000,2319,Vision Developments Vision Platinum,Vision Developments - Vision Platinum Real Estate Development,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Samana Ocean Bay Building 2,2 B/R,1489.85,3449600,2315.41,Samana,Samana Developers,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Ghaf Woods,Maravelle 1 at Capria East Ghaf Woods,3 B/R,2924.47,6766000,2313.58,Majid Al Futtaim,Majid Al Futtaim (MAF Group),1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Palace Residences Hillside A,2 B/R,1146.9,2652888,2313.09,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1402.98,3232888,2304.3,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,1 B/R,970.48,2235618,2303.62,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1450.56,3333888,2298.35,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Peninsula Four Tower B,3 B/R,1936.55,4450000,2297.9,Private Investor,Private Investor,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Village Circle,Binghatti Ruby,0 B/R,413.45,949999,2297.76,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Village Circle,Binghatti Ruby,0 B/R,413.45,949999,2297.76,Binghatti,Binghatti Holding Limited,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,3 B/R,1848.18,4244888,2296.8,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Club Place A,3 B/R,1751.63,4022888,2296.66,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Satwa,Coral by Vision,1 B/R,692.88,1588078.18,2292,Vision Developments Vision Platinum,Vision Developments - Vision Platinum Real Estate Development,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Ras Al Khor Industrial First,Sobha One Tower A,1 B/R,725.06,1660387,2289.99,Sobha,Sobha Real Estate L.L.C,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Flow Residences,1 B/R,843.57,1930000,2287.88,Main Realty L L C,Main Realty Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,2 B/R,1198.25,2739547,2286.29,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Village Circle,Maimoon Gardens Tower B,1 B/R,612.36,1400000,2286.22,Fakhruddin,Fakhruddin Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,1 B/R,904.93,2067168,2284.34,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,3 B/R,1848.18,4220888,2283.81,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,The Elysian Residence,1 B/R,721.08,1645777,2282.38,NEW Mfour,New MFOUR Real Estate Development LLC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Satwa,Coral by Vision,1 B/R,731.84,1666372.62,2276.95,Vision Developments Vision Platinum,Vision Developments - Vision Platinum Real Estate Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Diamondz By Danube,2 B/R,1107.29,2520700,2276.45,Danube,Danube Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Peninsula Four Tower A,1 B/R,971.24,2210000,2275.45,Private Investor,Private Investor,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1402.98,3187888,2272.23,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1450.56,3295888,2272.15,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Uptown Motorcity,Velos Residence,0 B/R,357.26,811673,2271.96,City View Urban,City View Urban Real Estate Development LLC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,3 B/R,1848.18,4196888,2270.82,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Albero,3 B/R,1848.18,4188888,2266.49,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,3 B/R,1848.18,4188888,2266.49,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1450.56,3283888,2263.88,Emaar,Emaar Properties PJSC,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,Ayaan Heights 1,1 B/R,770.06,1742516,2262.84,MAG,MAG Property Development,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Elvira 2,2 B/R,1062.84,2400000,2258.11,Emaar,Emaar Properties PJSC,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,2 B/R,1404.38,3170888,2257.86,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,3 B/R,1848.18,4172888,2257.84,Emaar,Emaar Properties PJSC,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Altan,3 B/R,1848.18,4172888,2257.84,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Sports City,Aspirz Tower,0 B/R,387.61,875000,2257.41,Danube,Danube Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,2 B/R,1356.8,3061649.8,2256.52,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,0 B/R,383.52,864999,2255.41,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Haven Tower A,2 B/R,1188.67,2680888,2255.37,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,686.1,1546999,2254.78,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Evergrin House,1 B/R,875.87,1974264,2254.07,TSZ Object ONE L L C,TSZ Group - Object One Real Estate Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Evergrin House 2,1 B/R,904.07,2036022,2252.07,TSZ Object ONE L L C,TSZ Group - Object One Real Estate Development L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1402.98,3158888,2251.56,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,689.33,1551999,2251.47,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Bay Tower A,2 B/R,1450.56,3264888,2250.78,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,689.33,1550999,2250.02,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Park Motor City,Sierra by Iman,0 B/R,417.86,940174,2249.98,Iman L L C,Iman Developers L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Allegro Park,1 B/R,765.54,1722441,2249.98,Mill Hill Riviera,Mill Hill Riviera Development LLC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,340 Riverside Crescent,1 B/R,894.38,2012333,2249.97,Sobha,Sobha Real Estate L.L.C,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Satwa,Coral by Vision,1 B/R,692.88,1558078.18,2248.7,Vision Developments Vision Platinum,Vision Developments - Vision Platinum Real Estate Development,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,0 B/R,383.52,861999,2247.59,Binghatti,Binghatti Holding Limited,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Rosehill Block B,1 B/R,749.71,1684888,2247.38,Emaar,Emaar Properties PJSC,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,Ayaan Heights 1,1 B/R,790.83,1776864,2246.83,MAG,MAG Property Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1440.01,3231888,2244.35,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,687.39,1539999,2240.36,Binghatti,Binghatti Holding Limited,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,699.23,1565999,2239.61,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,699.23,1565999,2239.61,Binghatti,Binghatti Holding Limited,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Rosehill Block B,1 B/R,744.87,1667888,2239.17,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,686.1,1535999,2238.75,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,698.91,1563999,2237.78,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Creek Waters 2,2 B/R,1244.1,2780000,2234.54,Emaar,Emaar Properties PJSC,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1402.98,3130888,2231.6,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,2 B/R,1000.19,2231999,2231.57,Binghatti,Binghatti Holding Limited,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Wellington Ocean,1 B/R,896.43,2000000,2231.08,ANK Motiwala,ANK Motiwala Real Estate Development LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1402.98,3129030,2230.27,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Village Triangle,Binghatti Flare Building 2,0 B/R,383.95,855999,2229.44,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1402.98,3124888,2227.32,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,2 B/R,1000.19,2224999,2224.57,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Wynwood Horizon,2 B/R,1275.75,2837507.9,2224.19,Imtiaz,Imtiaz Real Estate Investment And Development L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Coastal Haven,1 B/R,830.33,1845000,2221.99,Prestige ONE Developments Prestige ONE Luxury LL,Prestige One Developments - Prestige One Luxury Real Estate LL,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Imtiaz Symphony Tower,1 B/R,900.62,2000000,2220.68,Unknown,Unknown,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Business Park Motor City,Sierra by Iman,0 B/R,417.43,926682,2219.98,Iman L L C,Iman Developers L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Village Circle,Auresta Tower,0 B/R,332.72,737840.25,2217.63,Tiger,Tiger Properties - Tiger Real Estate,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Bay,The Edge,2 B/R,878.45,1940000,2208.44,Select Group,Select Group,2
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,2 B/R,1404.38,3097888,2205.88,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Royal Regency Suites 1,1 B/R,658.33,1449558,2201.88,AL Seeb,Al Seeb Real Estate Development,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,0 B/R,379.75,835999,2201.42,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,0 B/R,379.75,835999,2201.42,Binghatti,Binghatti Holding Limited,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Park Motor City,Sierra by Iman,0 B/R,416.35,915966,2199.98,Iman L L C,Iman Developers L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Park Motor City,Sierra by Iman,0 B/R,416.35,915966,2199.98,Iman L L C,Iman Developers L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Park Motor City,Sierra by Iman,0 B/R,417.43,918334,2199.98,Iman L L C,Iman Developers L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,689.76,1516999,2199.32,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Meriden Beach Residences,1 B/R,949.49,2081520,2192.24,Green Horizon,Green Horizon Real Estate Development LLC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Montiva at Green Gate,3 B/R,1834.83,4017888,2189.79,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,1 B/R,668.66,1463999,2189.45,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Healthcare City Phase 2,Binghatti Pinnacle,2 B/R,1078.45,2359999,2188.33,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Sports City,Aspirz Tower,0 B/R,394.07,862330,2188.27,Danube,Danube Properties,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,VYB,1 B/R,731.52,1600000,2187.22,Ginco L L C,Ginco Properties L.L.C,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1402.98,3062888,2183.13,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Healthcare City Phase 2,Binghatti Pinnacle,2 B/R,1078.45,2349999,2179.06,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,0 B/R,379.65,826999,2178.34,Binghatti,Binghatti Holding Limited,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,0 B/R,383.52,834999,2177.19,Binghatti,Binghatti Holding Limited,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Science Park (Dubiotech),Binghatti Hillside,0 B/R,360.59,784999,2176.96,Binghatti,Binghatti Holding Limited,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,0 B/R,379.75,825999,2175.09,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland 2,330 Riverside Crescent,1 B/R,777.81,1691715,2174.98,Sobha,Sobha Real Estate L.L.C,2
+2026-02-04T00:00:00.000,Off-Plan Property,Villa,Nad Al Shiba First,Nad Al Sheba Gardens 11,3 B/R,3291.74,7150000,2172.1,Meraas,Meraas Development  L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Podium,2 B/R,1359.6,2951888,2171.14,Unknown,Unknown,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Dubai Healthcare City Phase 2,Binghatti Pinnacle,2 B/R,1078.45,2339999,2169.79,Binghatti,Binghatti Holding Limited,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Ghaf Woods,Maravelle 1 at Capria East Ghaf Woods,2 B/R,2782.92,6034000,2168.22,Majid Al Futtaim,Majid Al Futtaim (MAF Group),1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Silva at Green Gate,2 B/R,1402.98,3040888,2167.45,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Amber by Enso,0 B/R,518.39,1120000,2160.52,Enso,ENSO Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Nad Al Shiba First,La Vue Residence,2 B/R,1336.14,2884800,2159.06,Maaia,Maaia Developers,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Furjan,Trussardi Residences 2 Building 1,0 B/R,429.16,925782,2157.19,Mira Developments,Mira Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Furjan,Trussardi Residences 2 Building 1,0 B/R,415.17,895570,2157.13,Mira Developments,Mira Developments,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Business Park Motor City,Sierra by Iman,0 B/R,416.35,897646.68,2155.98,Iman L L C,Iman Developers L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Chic Tower by de GRISOGONO,0 B/R,487.29,1050000,2154.79,Damac,Damac Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Cullinan,0 B/R,383.41,824999,2151.72,Binghatti,Binghatti Holding Limited,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Expo City,Terra Gardens Building 2,2 B/R,1126.56,2422888,2150.7,Emaar,Emaar Properties PJSC,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Ras Al Khor Industrial First,Sobha One Tower A,1 B/R,732.92,1575757,2149.97,Sobha,Sobha Real Estate L.L.C,2
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,1 B/R,846.91,1813888,2141.77,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Ras Al Khor Industrial First,Sobha One Tower B,2 B/R,1115.04,2386164,2139.98,Sobha,Sobha Real Estate L.L.C,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Rosehill Block B,1 B/R,753.7,1612888,2139.97,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Horizon,Parkway by Prestige One,2 B/R,1301.15,2783900,2139.57,Prestige ONE Developments Prestige ONE Luxury LL,Prestige One Developments - Prestige One Luxury Real Estate LL,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Ocean Tower,2 B/R,1468.1,3140000,2138.82,Ahmed AL Ansari,Ahmed Al Ansari Real Estate Development LLC,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,1 B/R,846.91,1810888,2138.23,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Horizon,Future Residence,1 B/R,765.64,1635981,2136.74,True Future,True Future Real Estate Development LLC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Golf Residences by Fortimo,1 B/R,936.04,2000000,2136.67,Fortimo L L C,Fortimo Real Estate Development L.L.C,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Furjan,Trussardi Residences 2 Building 1,0 B/R,415.17,884780,2131.14,Mira Developments,Mira Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,MBL Signature,2 B/R,1558.41,3319706.19,2130.19,MAG,MAG Property Development,1
+2026-02-04T00:00:00.000,Off-Plan Property,Villa,Nad Al Shiba First,Nad Al Sheba Gardens 11,3 B/R,3291.74,7012000,2130.18,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Arka Enclave Residences,2 B/R,1202.02,2559446,2129.29,Manodev,Manodev Real Estate Development LLC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Bayview Boulevard,1 B/R,959.72,2042912,2128.66,AB,AB Developers,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Creek Harbour,Montiva at Green Gate,1 B/R,998.58,2122888,2125.91,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Amber by Enso,1 B/R,727.75,1547000,2125.72,Enso,ENSO Development,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Majan,Samana Barari Heights,0 B/R,422.16,894000.01,2117.66,Samana,Samana Developers,1
+2026-02-04T00:00:00.000,Off-Plan Property,Villa,Nad Al Shiba First,Nad Al Sheba Gardens 11,3 B/R,3291.74,6963000,2115.3,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Ivory,2 B/R,1259.6,2664374,2115.25,Binghatti,Binghatti Holding Limited,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Science Park (Dubiotech),Binghatti Hillside,0 B/R,393.53,831999,2114.18,Binghatti,Binghatti Holding Limited,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Kifaf,Park Views Residences B,3 B/R,1643.77,3474777,2113.91,AL Wasl,Al Wasl Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Villa,Dubai Investment Park Second,Grand Polo Club and Resort - Equestra,4 B/R,2482.72,5237888,2109.74,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Motor City,Mirdad Two,1 B/R,697.08,1470610,2109.68,Union,Union Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Azizi Venice,Azizi Venice 8 A,0 B/R,346.17,730000,2108.79,Azizi,Azizi Developments,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Verde by Sobha,2 B/R,1365.95,2875000,2104.76,Sobha,Sobha Real Estate L.L.C,2
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Horizon,Mansory Residences - AMAAL 8,2 B/R,1237.11,2600888,2102.4,Amaal Emirates L L C,Amaal Emirates L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Sobha Hartland,Sobha Creek Vista Heights - Tower B,1 B/R,775.87,1630000,2100.87,Sobha,Sobha Real Estate L.L.C,2
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Motor City,Mirdad One,0 B/R,377.39,792504,2099.98,Union,Union Properties,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Club Place A,2 B/R,1383.17,2902888,2098.71,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Floarea Breeze,1 B/R,896.43,1879060,2096.17,Mashriq Elite,Mashriq Elite Real Estate Development LLC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Lake Towers,Viewz 2 By Danube,1 B/R,737.44,1545000,2095.08,Danube,Danube Properties,2
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Ras Al Khor Industrial First,Sobha One Tower B,1 B/R,550.47,1153214,2094.96,Sobha,Sobha Real Estate L.L.C,2
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Franck Muller Yachting by London Gate,2 B/R,1462.5,3061000,2092.98,London Gate L L C,London Gate Real Estate Development L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Binghatti Skyrise Tower 2,0 B/R,449.29,940000,2092.19,Binghatti,Binghatti Holding Limited,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Azizi Venice,Azizi Venice 6 Building A,0 B/R,353.38,737550,2087.12,Azizi,Azizi Developments,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Al Jadaf,Binghatti Twilight,2 B/R,874.58,1821000,2082.15,Binghatti,Binghatti Holding Limited,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Al Kifaf,Park Views Residences B,2 B/R,1160.04,2409777,2077.33,AL Wasl,Al Wasl Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,1 B/R,780.28,1620888,2077.31,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Uptown Motorcity,Sobha Orbis Tower E,1 B/R,696.86,1445964,2074.97,Sobha,Sobha Real Estate L.L.C,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,1 B/R,780.28,1617888,2073.46,Unknown,Unknown,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Azizi Venice,Azizi Venice 7 C,0 B/R,350.91,727500,2073.2,Azizi,Azizi Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Ghaf Woods,Distrikt Building 1,2 B/R,1450.23,3005000,2072.08,Majid Al Futtaim,Majid Al Futtaim Properties,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Jumeirah Garden City,Whitestone Residence,1 B/R,830.77,1719670.31,2069.98,Axiom Prime,Axiom Prime Real Estate,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Expo City,Terra Gardens Building 2,2 B/R,1125.16,2327888,2068.94,Emaar,Emaar Properties PJSC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Azizi Venice,Azizi Venice 7 C,0 B/R,351.77,727500,2068.13,Azizi,Azizi Developments,1
+2026-02-07T00:00:00.000,Off-Plan Property,Apartment,Horizon,Mansory Residences - AMAAL 8,1 B/R,754.56,1560000,2067.44,Amaal Emirates L L C,Amaal Emirates L.L.C,1
+2026-02-04T00:00:00.000,Off-Plan Property,Apartment,Azizi Venice,Azizi Venice 6 Building A,0 B/R,353.17,730100,2067.29,Azizi,Azizi Developments,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Expo City,Expo Valley Views 8 - Mahra at Expo Valley Views,1 B/R,890.72,1840000,2065.74,Expo City,Expo City,1
+2026-02-04T00:00:00.000,Off-Plan Property,Villa,Nad Al Shiba First,Nad Al Sheba Gardens 11,3 B/R,3291.74,6793000,2063.65,Meraas,Meraas Development  L.L.C,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Dreamlife Residences,1 B/R,838.62,1728031,2060.56,Nova Power,Nova Power Real Estate LLC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,1 B/R,775.76,1598270,2060.26,Unknown,Unknown,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,1 B/R,775.76,1597888,2059.77,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Satwa,161 Jumeirah Lane,2 B/R,997.28,2050000.77,2055.58,National,National Properties,0
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Al Satwa,161 Jumeirah Lane,2 B/R,997.28,2050000.77,2055.58,National,National Properties,0
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Business Bay,Royal Regency Suites 1,1 B/R,658.33,1350809,2051.88,AL Seeb,Al Seeb Real Estate Development,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Dubai Islands,Allegro Park,1 B/R,817.53,1677334,2051.72,Mill Hill Riviera,Mill Hill Riviera Development LLC,1
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Dubai Maritime City,Bayline,2 B/R,1219.45,2500000,2050.1,Emaar,Emaar Properties PJSC,2
+2026-02-05T00:00:00.000,Off-Plan Property,Apartment,Expo City,Terra Gardens Building 2,1 B/R,764.57,1565930,2048.13,Emaar,Emaar Properties PJSC,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Dubai South Residential District,Grove Ridge Building 1,2 B/R,1282.96,2626888,2047.52,Emaar,Emaar Properties PJSC,1
+2026-02-10T00:00:00.000,Off-Plan Property,Apartment,Dubai Hills Estate,Greencrest Tower,1 B/R,780.28,1596888,2046.55,Unknown,Unknown,1
+2026-02-09T00:00:00.000,Off-Plan Property,Apartment,Emaar South,Golf Hills,1 B/R,680.18,1391888,2046.36,Emaar,Emaar Properties PJSC,1
+2026-02-06T00:00:00.000,Off-Plan Property,Apartment,Culture Village,Binghatti Moonlight,2 B/R,934.21,1909999,2044.51,Binghatti,Binghatti Holding Limited,1
